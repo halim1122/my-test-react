@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Football",
+    "category": "Ball Sports",
+    "price": 25.99,
+    "currency": "USD",
+    "brand": "Adidas",
+    "material": "Synthetic Leather",
+    "size": "5",
+    "features": ["Water-resistant", "FIFA Approved", "Machine-stitched"]
+  },
+  {
+    "id": 2,
+    "name": "Cricket Bat",
+    "category": "Cricket",
+    "price": 59.99,
+    "currency": "USD",
+    "brand": "SS",
+    "material": "English Willow",
+    "size": "Full",
+    "features": ["Thick edges", "Lightweight", "Rubber grip"]
+  },
+  {
+    "id": 3,
+    "name": "Tennis Racket",
+    "category": "Racquet Sports",
+    "price": 89.99,
+    "currency": "USD",
+    "brand": "Wilson",
+    "material": "Graphite",
+    "size": "27 inches",
+    "features": ["Pre-strung", "Shock absorption", "Ergonomic grip"]
+  },
+  {
+    "id": 4,
+    "name": "Basketball Shoes",
+    "category": "Footwear",
+    "price": 120.00,
+    "currency": "USD",
+    "brand": "Nike",
+    "material": "Mesh & Rubber",
+    "size": "10 US",
+    "features": ["Ankle support", "Breathable", "Non-slip sole"]
+  },
+  {
+    "id": 5,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 19.99,
+    "currency": "USD",
+    "brand": "Manduka",
+    "material": "TPE",
+    "size": "72 x 24 inches",
+    "features": ["Non-toxic", "Anti-slip surface", "Lightweight"]
+  }
+]
